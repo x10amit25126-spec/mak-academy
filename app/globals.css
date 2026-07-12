@@ -10,6 +10,17 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-navy: #0B1F3A;
+  --color-navy-light: #16305A;
+  --color-navy-dark: #060F1D;
+
+  --color-emerald: #0F6B4C;
+  --color-emerald-light: #158C64;
+  --color-emerald-dark: #0A4A34;
+
+  --color-gold: #C9A24B;
+  --color-gold-light: #E0C275;
+  --color-gold-dark: #A67F2E;
 }
 
 @media (prefers-color-scheme: dark) {
